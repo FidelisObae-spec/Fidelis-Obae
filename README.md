@@ -1,44 +1,32 @@
-# Fidelis-Obae
-# Hi there, I'm Fidel 👋
+# Fidelis Obae
 
-I am an Information Communication Technology (ICT) professional and an ambitious **NetDevOps & Systems Engineer**. My engineering philosophy centers on bridging the gap between traditional network infrastructure and modern software architectures—utilizing Infrastructure as Code (IaC) to eliminate manual workflows, improve system reliability, and scale network environments dynamically.
+ICT professional focused on NetDevOps and systems engineering. I’m interested in using infrastructure as code to make network operations more consistent and reliable, while continuing to grow my software and systems skills.
 
----
+## Technical focus
 
-## 🛠️ Comprehensive Technical Core
-
-| Domain | Technologies & Frameworks |
+| Area | Tools and topics |
 | :--- | :--- |
-| **Network Automation & IaC** | Ansible (Playbooks, Core Modules), YAML, Terraform (Learning) |
-| **Programming & Scripting** | Python (Automation & API Parsing), C++ (Systems Design), SQL |
-| **Infrastructure & OS** | Cisco IOS configuration, Enterprise Routing/Switching, Linux Systems |
-| **CI/CD & Version Control** | Git, GitHub Actions, Devops Toolchains |
+| Network automation | Ansible, YAML, Cisco IOS, routing and switching |
+| Programming and data | Python, C++, SQL |
+| Infrastructure | Linux, infrastructure as code, Terraform (learning) |
+| Delivery | Git, GitHub Actions, CI/CD |
 
----
+## Featured work
 
-## 📂 Featured Engineering Workshops
+### [NetDevOps Automation Labs](https://github.com/FidelisObae-spec/netdevops-automation-labs)
+Hands-on labs with sample Ansible playbooks, an inventory, a Python host-reachability check, and network topology notes. The repository is a learning project, not a production deployment.
 
-### 📡 [NetDevOps Automation Labs](https://github.com/YOUR_USERNAME_HERE/netdevops-automation-labs)
-My primary sandbox tracking production-ready automation scripts and configurations. 
-* **Ansible Deployments:** Multi-vendor baseline switch playbooks and automated corporate VLAN staging.
-* **Python Telemetry:** Custom automation engines for system ping verification, data parsing, and infrastructure health reporting.
+### [Customer Analytics & Predictive Modeling](https://github.com/FidelisObae-spec/advanced-customer-analytics)
+A project brief for a reproducible customer-analytics pipeline; the executable data and SQL work are still planned.
 
-### ⚙️ HydroCore Engine
-A high-throughput, low-level billing engine written in **C++** designed for high-performance data processing, optimized database interactions via SQL, and architectural scalability.
+### HydroCore Engine
+A C++ systems-design project focused on high-throughput billing, SQL-backed data, and scalable architecture.
 
----
+## Current learning goals
 
-## 📈 Current Technical Objectives & Timeline
+- [ ] Build confidence with Ansible roles, variables, and loops.
+- [ ] Add reliable automated checks for network-configuration projects.
 
-- [x] **Phase 1:** Establish enterprise Git version control structures for infrastructure management.
-- [ ] **Phase 2:** Master advanced Ansible playbooks, roles, and variable registration loops.
-- [ ] **Phase 3:** Integrate automated continuous integration (CI/CD) pipelines to test configurations dynamically before deployment.
+## About me
 
----
-
-## 🎯 About Me & Motivation
-I thrive at the intersection of logical complexity and optimization. Whether I am writing scripts to monitor a network cluster, planning the architecture for a high-performance system engine, calculating strategies .I approach every problem with focus and consistency.
-
-### 🤝 Let's Connect & Collaborate
-* 🌐 **LinkedIn:** [Your Professional Profile Link Here]
-* 📧 **Email:** [Your Professional Email Address Here]
+I enjoy working through complex problems and improving systems step by step. My interests include network automation, software architecture, and high-performance systems.
